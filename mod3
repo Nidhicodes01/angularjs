@@ -1,3 +1,4 @@
+//Peer graded assignment 3 by nidhi
 <div class="row">
     <div ng-repeat="item in menu.foundItems">
         <div class="clearfix" ng-if="$index % 2 == 0"></div>
